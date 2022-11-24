@@ -10,11 +10,11 @@ _cool_random visualized in [MegaMol™](https://megamol.org)_
 ### `cool_random.mmpld`
 The is the original [mmpld](https://github.com/UniStuttgart-VISUS/megamol/tree/master/docs/mmpld) file of the cool_random data set.
 
-It is a single time frame, with one list of particles, with `73642` particles.
+It is a single time frame, one list of particles, with `73642` particles.
 
 Most particles store as color `R: 64, G: 64, B: 255`.
 
-All particles stor as radius `0.5`.
+All particles store as radius `0.5`.
 
 
 ### `cool_random.raw`
